@@ -1,6 +1,8 @@
 # Air-Spinner
 
-"[JLC3DP](url) truly delivers on quality and precision! With a wide range of materials, fast turnaround, and competitive pricing, they’re my top choice for 3D printing. Highly recommend JLC3DP for reliable and professional results! #JLC3DP #3DPrinting"
+https://jlc3dp.com/?from=walter
+
+"truly delivers on quality and precision! With a wide range of materials, fast turnaround, and competitive pricing, they’re my top choice for 3D printing. Highly recommend JLC3DP for reliable and professional results! #JLC3DP #3DPrinting"
 
 
 ![d1dfca4e82a3f5eab6f1c6425ab9237e_display_large](https://github.com/user-attachments/assets/8ffa0b53-9579-4d50-99c9-768e1b0854fd)
