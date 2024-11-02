@@ -1,8 +1,6 @@
 # Air-Spinner
 
-https://jlc3dp.com/?from=walter
-
-"JLC3DP truly delivers on quality and precision! With a wide range of materials, fast turnaround, and competitive pricing, they’re my top choice for 3D printing. Highly recommend JLC3DP for reliable and professional results! #JLC3DP #3DPrinting"
+"[JLC3DP](url) truly delivers on quality and precision! With a wide range of materials, fast turnaround, and competitive pricing, they’re my top choice for 3D printing. Highly recommend JLC3DP for reliable and professional results! #JLC3DP #3DPrinting"
 
 had no idea what this was for when I uploaded it.  I didn't think it would be useful for anything other than as a 3D print demo, I just made it to satisfy my curiosity.  
 But if you check out comments below, guttyr discovered you can spin it up by blowing on it, and it can be used by speech therapists to help special needs kids get better at breath support and control.
